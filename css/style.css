@@ -1,5 +1,5 @@
 body{
-    background-color: #f4f4f4;
+    background-color: #f3f3f3;
     color:#555;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
@@ -35,14 +35,15 @@ body{
 #navbar a{
     color: #fff;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 20px;
     padding-right: 15px;
 }
 
 #showcase {
     background-image: url('../css/billeder/showcase.jpg');
-    background-position: center right;
-    height: 300px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 400px;
     margin-bottom: 30px;
     text-align: center;
 }
