@@ -80,6 +80,7 @@ body{
     background-repeat: no-repeat;
     min-height: 400px;
     margin-bottom: 30px;
+    box-sizing: border-box;
 }
 
 #mainFooter{
