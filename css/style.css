@@ -74,6 +74,14 @@ body{
     box-sizing: border-box;
 }
 
+#sidebarTo{
+    background-image: url('../css/billeder/mig.png');
+    background-position: center right;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    margin-bottom: 30px;
+}
+
 #mainFooter{
     background: #333;
     color:#fff;
