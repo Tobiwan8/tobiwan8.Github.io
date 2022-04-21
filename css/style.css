@@ -14,13 +14,12 @@ body{
 }
 
 #mainHeader{
-    background-color: coral;
-    color:#fff;
+    background-color: rgb(113, 104, 248);
+    color: rgb(185, 223, 116);
 }
 
 #navbar{
     background-color: #333;
-    color:#fff;
 }
 
 #navbar ul{
@@ -33,10 +32,14 @@ body{
 }
 
 #navbar a{
-    color: #fff;
+    color:whitesmoke;
     text-decoration: none;
     font-size: 20px;
     padding-right: 15px;
+}
+
+#navbar a:hover{
+    color: rgb(185, 223, 116);
 }
 
 #showcase {
